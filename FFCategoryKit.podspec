@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FFCategoryKit'
   s.version          = '2'
-  s.summary          = '智障青年'
+  s.summary          = 'zhizhangnanhai'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/刘金大/FFCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '刘金大' => 'liujinda_job@163.com' }
+  s.author           = { 'liujinda' => 'liujinda_job@163.com' }
   s.source           = { :git => 'https://github.com/刘金大/FFCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
