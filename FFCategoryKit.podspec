@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFCategoryKit'
-  s.version          = '3'
+  s.version          = '3.0'
   s.summary          = 'zhizhangnanhai'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/liujinda/FFCategoryKit'
+  s.homepage         = 'https://github.com/liujindajob/PracticeCode'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'liujinda' => 'liujinda_job@163.com' }
-  s.source           = { :git => 'https://github.com/liujinda/FFCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/liujindajob/PracticeCode.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
