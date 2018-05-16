@@ -1,19 +1,19 @@
 {
   "name": "FFCategoryKit",
-  "version": "0.1.0",
-  "summary": "A short description of FFCategoryKit.",
+  "version": "4.0",
+  "summary": "zhizhangnanhai",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/刘金大/FFCategoryKit",
+  "homepage": "https://github.com/liujindajob/PracticeCode",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "刘金大": "liujinda_job@163.com"
+    "liujinda": "liujinda_job@\n      .com"
   },
   "source": {
-    "git": "https://github.com/刘金大/FFCategoryKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/liujindajob/PracticeCode.git",
+    "tag": "4.0"
   },
   "platforms": {
     "ios": "8.0"
