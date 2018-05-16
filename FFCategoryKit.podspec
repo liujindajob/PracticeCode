@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFCategoryKit'
-  s.version          = '0.50'
+  s.version          = '0.01'
   s.summary          = 'zhizhangnanhai'
 
 # This description is used to generate tags and improve search results.
